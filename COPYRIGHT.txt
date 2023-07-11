@@ -1,0 +1,15 @@
+- You are granted the right for personal use for COMP321.
+
+- You are *not* granted the right to publish or distribute course materials.
+
+  - For example, you are not allowed to put the skeleton code or derivations
+    thereof on a public GitHub repository, webserver or similar. (IMPORTANT!!)
+
+    This measure has been taken to provide equal opportunity for future
+    students.
+
+  - For your own versioning, please use private repositories only. Private
+    Bitbucket, GitHub etc. repositories (Git-based!) are free of charge for
+    university students.
+
+- Do *not* distribute the skeleton codes and your implementations of assignments!
